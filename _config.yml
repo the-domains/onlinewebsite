@@ -1,0 +1,14 @@
+layout_spectrum: 0.3173147027846426
+typography_spectrum: 0.04900753707624972
+color:
+  brandStrength: 0.48467940953560174
+  lightness: 0.5219416397158056
+  saturation: 0.47498573013581336
+  rhythmicContrast: 0.953413592884317
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: onlinewebsite
